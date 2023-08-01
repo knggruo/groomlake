@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+ultralytics 8.1.27 batched tracking fixes (#8842)
