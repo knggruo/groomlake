@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
