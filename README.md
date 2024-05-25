@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Add simple-utilities.md Docs page (#8269)
